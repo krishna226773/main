@@ -1,1 +1,12 @@
-djdnjsdnjnn1
+Continous Integration:
+                     When the developer pushed the code to the code repository as soon as build server notified any changes it builds and test the code, this way with in less time we can check development part is working fine or not
+                     
+                     Find bugs easily
+                     Deliver faster as the code is tested.
+                     
+Continous delivery:
+                   Ensure that the software can be delivered reliably and whenever nedded
+                   That means after build server built the code, the build code is send to the deployment server from here to application server.
+                   
+Continous delivery may use manual intervention.
+but Continous deplyoment not use any manual intervention and directly deploy your code to deployment server after build happens.
